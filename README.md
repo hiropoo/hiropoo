@@ -1,7 +1,7 @@
-## Hello there 🖐
+## Hello 🖐
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiropoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @hiropoo
-- 🌱 I’m currently learning Flutter.
+- 📚 I’m currently learning Flutter.
 - 🎓 Majoring Computer Science at YNU.
 
 
