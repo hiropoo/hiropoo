@@ -1,5 +1,5 @@
 ## Hello 🖐
-[![Top Langs](https://github-readme-stats-clone-tg6p.vercel.app/api/top-langs/?username=hiropoo&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-clone-tg6p.vercel.app/api/top-langs/?username=hiropoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m @hiropoo
