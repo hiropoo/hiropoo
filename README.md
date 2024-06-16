@@ -1,9 +1,8 @@
 ## Hello 🖐
-[![Top Langs](https://github-readme-stats-clone-tg6p.vercel.app/api/top-langs/?username=hiropoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=hiropoo&layout=compact&theme=tokyonight)
 
 - 👋 Hi, I’m @hiropoo
-- 📚 I’m currently learning Flutter.
+- 📚 I’m currently learning Flutter and React.
 - 🎓 Majoring Computer Science at YNU.
 
 ## Languages & Tools
